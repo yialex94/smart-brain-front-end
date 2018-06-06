@@ -1,6 +1,6 @@
 # SmartBrain
 
-FrontFront-End of SmartBrain application built using HTML5, CSS3, JavaScript, and React.js. 
+Front-End of SmartBrain application built using HTML5, CSS3, JavaScript, and React.js. 
 
 Steps to run
 1. Clone this repo
